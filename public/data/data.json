@@ -1,0 +1,58 @@
+[
+    {
+        "id":0,
+        "name": "Learn UI/UX Design ",
+        "expert": "This course UX & UI Design is designed for those people, who wants to design anything to keep",
+        
+        "img":"https://img.freepik.com/free-vector/isometric-young-woman-creates-custom-design-mobile-application-ui-ux-design_130740-84.jpg?size=626&ext=jpg"
+    },
+    {
+        "id":1,
+        "name": "Web Development ",
+        "expert": "Web Development consists of two segments: front end development and backend development.",
+        "img":"https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png"
+    },
+    {
+        "id":2,
+        "name": "Digital Marketing",
+        "expert": "Find digital marketing  images in HD and millions of other royalty-free stock photos, illustrations collection. ",
+        "img":"https://st2.depositphotos.com/2119479/7679/i/600/depositphotos_76796041-stock-photo-digital-marketing.jpg"
+    },
+    {
+        "id":3,
+        "name": "Motion Graphics",
+        "expert": "Edit this video with Biteable, the world's simplest video maker. Customize text, images, and colors within minutes.",
+        "img":"https://i.ytimg.com/vi/kR5K1cPYl4I/maxresdefault.jpg"
+    },
+    {
+        "id":4,
+        "name": "Digital Image Editing",
+        "expert": "Image editing encompasses the processes of altering images, whether they are digital photographs,",
+        "img":"https://cdn.mos.cms.futurecdn.net/oSWWiEJLqVoQgcYeRJDzYH-480-80.jpg"
+    },
+    {
+        "id":5,
+        "name": "Graphic Design",
+        "expert": "Graphic design is the profession and academic discipline whose activity consists in projecting visual communications",
+        "img":"https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/06/attachment_59337693.jpg?auto=format&q=60&fit=max&w=930"
+    },
+    {
+        "id":6,
+        "name": "Data Entry Services",
+        "expert": "Your Data Entry stock images are ready. Download all free under lifetime,",
+        "img":"https://www.sidpublishing.com/wp-content/uploads/2020/12/fiverr-data-entry-image-template.jpg"
+    },
+    {
+        "id":7,
+        "name": "Digital Business",
+        "expert": "In an era when we make more than 6 billion Google searches a day, simplify",
+        "img":"https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/business_intelligence_mult_1_res/Business_Intelligence_746x419.jpg"
+    },
+    {
+        "id":8,
+        "name": "Digital Arts",
+        "expert": "Digital art is an artistic work or  digital technology as part of the process",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzieuvfwQ3INkXWDlvthqp19v2Moy5WCsSA&usqp=CAU"
+    }
+    
+]
